@@ -1,2 +1,25 @@
-![Screenshot_20221005_174414](https://user-images.githubusercontent.com/90903338/194054125-d1e0c2a9-06bd-4d62-a34b-758b5058d450.png)
-![Screenshot_20221005_174439](https://user-images.githubusercontent.com/90903338/194054133-64601f52-9546-41ee-bb4d-e3b09365f89e.png)
+# TSN_ANDROID_DEMO_MICRO
+Простейшие авторские демо-примеры Талипова С.Н. для Android Studio
+
+**Квадратное уравнение с 2-мя разметками (TSN_DEMO_02_Quadratic):**
+
+![Screenshot](screenshot.png)
+
+**Многооконная программа (TSN_DEMO_03_Questionnaire):**
+
+![Screenshot](screenshot1.png)
+
+![Screenshot](screenshot2.png)
+
+https://www.youtube.com/watch?v=kVbK5phEpRM
+
+https://www.youtube.com/watch?v=ZACUmft0G6s
+
+
+_Полная версия доступна официальным участникам курса Талипова С.Н._
+
+Полная электронная версия для Android: https://play.google.com/store/apps/details?id=kz.proffix4.tsn.lectnb
+
+Copyright (c) 2022, Talipov S.N.
+All rights reserved.
+
