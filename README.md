@@ -5,5 +5,5 @@
 
 
 
-![Screenshot_20221005_174439](https://user-images.githubusercontent.com/90903338/198210440-38090e90-9aed-4781-97a2-d0b24e6d3b4f.png)
+![Screenshot_20221005_174439](https://user-images.githubusercontent.com/90903338/198210440-38090e90-9aed-4781-97a2-d0b24e6d3b4f.png) <br>
 Решение задачи с горизонтальным расположением.
