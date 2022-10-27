@@ -1,4 +1,7 @@
-Искак Ислам Азаматулы CS-202(c)
+Решение задачи с вертикальным расположением.
+![Screenshot_20221005_174414](https://user-images.githubusercontent.com/90903338/198210461-9913224e-5251-4291-ab2b-bf4afcbb8118.png)
 
-![Screenshot_20221005_174439](https://user-images.githubusercontent.com/90903338/194054712-77f0498d-79f6-4fcd-aff6-9cb6ec13aa94.png)
-![Screenshot_20221005_174414](https://user-images.githubusercontent.com/90903338/194054719-13f600c6-1e9b-49ae-84d0-b6b0185125f9.png)
+
+
+Решение задачи с горизонтальным расположением.
+![Screenshot_20221005_174439](https://user-images.githubusercontent.com/90903338/198210440-38090e90-9aed-4781-97a2-d0b24e6d3b4f.png)
