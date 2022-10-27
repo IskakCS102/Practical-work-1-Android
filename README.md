@@ -1,4 +1,4 @@
-![Screenshot_20221005_174414](https://user-images.githubusercontent.com/90903338/198210461-9913224e-5251-4291-ab2b-bf4afcbb8118.png)
+![Screenshot_20221005_174414](https://user-images.githubusercontent.com/90903338/198210461-9913224e-5251-4291-ab2b-bf4afcbb8118.png) <br>
 Решение задачи с вертикальным расположением.
 
 
